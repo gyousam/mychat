@@ -1,0 +1,47 @@
+.loginContainer{
+    width: 60%;
+    padding: 80px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 4px 0;
+
+    margin-bottom:15px;
+    position: relative;
+}
+.errorbox{
+    position: absolute;
+    width: 300px;
+    padding:20px;
+    background
+}
+
+.logo {
+    width: ;
+    height: ;
+    background-size: 
+    background-repeat: ;
+    margin-left: ;
+    margin-right: ;
+    
+}
+
+
+    padding-right: 50px;
+}
+.input{
+    width: ;
+    padding: ;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    background-color: #efefef;
+    display: block;
+    margin-bottom: 10px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: rgb(4, 159, 27);
+}
